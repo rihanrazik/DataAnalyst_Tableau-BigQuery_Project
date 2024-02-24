@@ -8,7 +8,8 @@ The analysis covers traffic data from the years 2016 to 2018, utilizing Tableau 
 
 Tools and Technologies:
 Visualization: Tableau
-Data Processing: Google Cloud Platform (GCP)
+Data Processing: Google Cloud Platform (GCP), SQL
+
 Methodology:
 The project involved a comprehensive methodology, including data collection, cleaning, analysis, and visualization. Detailed steps ensured the accuracy and reliability of the insights presented.
 
