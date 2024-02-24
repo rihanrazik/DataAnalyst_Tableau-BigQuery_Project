@@ -1,4 +1,4 @@
-# Data Analyst Project1
+# Data Analyst: Project-1
 
 <b>Minnesota Traffic Volume Analysis: <b/>
 <b>A Project completed for the Google Business Intelligence Professional Certification using Tableau and Google Cloud Platform (GCP).</b>
