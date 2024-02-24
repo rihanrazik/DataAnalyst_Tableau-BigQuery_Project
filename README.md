@@ -1,25 +1,38 @@
 # Data Analyst: Project-1
 
-<b>Minnesota Traffic Volume Analysis: <b/>
-<b>A Project completed for the Google Business Intelligence Professional Certification using Tableau and Google Cloud Platform (GCP).</b>
+Overview:
+Completed as part of the Google Business Intelligence Professional Certification, this project focuses on analyzing traffic volume patterns in Minnesota. The objective is to aid the Minnesota Department of Transportation in making informed infrastructure decisions without causing disruptions to drivers.
 
-Project goal:
-Build a dashboard to help Minnesota Department of Transportation monitor traffic patterns.
+Project Scope:
+The analysis covers traffic data from the years 2016 to 2018, utilizing Tableau for visualization and Google Cloud Platform for data processing.
 
-Purpose of this project:
-Knowing traffic patterns under these conditions will help the team make important infrastructure decisions. These decisions will ensure that any construction in the future won’t cause problems for drivers.
+Tools and Technologies:
+Visualization: Tableau
+Data Processing: Google Cloud Platform (GCP)
+Methodology:
+The project involved a comprehensive methodology, including data collection, cleaning, analysis, and visualization. Detailed steps ensured the accuracy and reliability of the insights presented.
 
-Requested Charts for the Dashboard:
-- Traffic volume throughout the year; organized by year, month, week, day, and hour
-- Traffic volume in different weather conditions
-- Traffic volume on different holidays
+Dashboard Walkthrough:
+Explore the interactive Tableau Dashboard below for insights into:
+- Traffic volume throughout the year, organized by year, month, week, day, and hour.
+- Traffic volume variations in different weather conditions.
+- Traffic volume on different holidays.
 
-Data Source:
-https://drive.google.com/file/d/16XX0LOIcQQhykDGumNHw3t19ypTrE_7v/view?usp=sharing
-
-Final Dashboards Created in Tableau:
+Dashboard:
 https://public.tableau.com/views/MinnesotaTrafficVolumeAnalysis/MinnesotaTrafficVolumeAnalysisDashboard2016-2018?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
+Data Source:
+The dataset, available below, in CSV format, underwent meticulous preprocessing to ensure data quality.
+https://drive.google.com/file/d/16XX0LOIcQQhykDGumNHw3t19ypTrE_7v/view?usp=sharing
+
+Insights and Impact:
+Discover trends and insights that can significantly impact decision-making at the Minnesota Department of Transportation. Understanding traffic patterns is crucial for making informed infrastructure decisions.
+
+Challenges Faced:
+Throughout the project, challenges were encountered and successfully addressed. Overcoming these hurdles contributed to the robustness of the analysis.
+
+Future Improvements:
+Considerations for future improvements include additional analyses with extended datasets or exploring emerging technologies for more advanced insights.
 
 
 
