@@ -1,6 +1,7 @@
 # Data Analyst Project:   Analyzing Traffic Volume Patterns in Minnesota, USA
  
 Overview:
+
 Completed as part of the Google Business Intelligence Professional Certification, this project focuses on analyzing traffic volume patterns in Minnesota. The objective is to aid the Minnesota Department of Transportation in making informed infrastructure decisions without causing disruptions to drivers.
 
 Project Scope:
