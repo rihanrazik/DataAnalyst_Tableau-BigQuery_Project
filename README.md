@@ -10,7 +10,7 @@ The analysis covers traffic data from the years 2016 to 2018, utilizing Tableau 
 
 Visualization: Tableau.
 
-Data Processing: Google Bigquery.
+Data Processing: Google Bigquery. 
 
 **Methodology:**
 The project involved a comprehensive methodology, including data collection, cleaning, analysis, and visualization. Detailed steps ensured the accuracy and reliability of the insights presented.
